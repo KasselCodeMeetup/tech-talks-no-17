@@ -1,0 +1,47 @@
+name: "Tech Talks No. 17"
+date: "29.01.2020"
+announcements:
+  facebook: https://www.facebook.com/events/2270819163230598/
+  meetup: https://www.meetup.com/KasselCodeMeetup/events/265555404/
+description: |
+  Im neuen Jahr noch nichts vor? Das Kassel Code Meetup läd zur 17. Auflage
+  der Tech Talks in der Caricatura Bar!
+
+  Neben Pizza, Bier und Mate gibt es auch dieses Mal wieder Gelegenheit zum
+  Wissensaustausch mit anderen Techies und spannende Talks zu diesen Themen:
+hosts:
+- name: "Enno Boland"
+  avatar: https://en.gravatar.com/userimage/9576919/5989cc193f3d8740e27d3edea41fca47.jpg?size=200
+  meetup_user_id: 87858922
+  social:
+    twitter: https://twitter.com/Gottox
+    github: https://github.com/Gottox
+    homepage: https://eboland.de
+    mail: mail@eboland.de
+talks:
+  # mytalk:
+  #   title: "My Talk"
+  #   speaker:
+  #     name: "Mr. Speaker"
+  #     social:
+  #       github: ...
+  #   abstract: |
+  #     Give a short introduction about your talk here
+  #   slides:
+  #     url: https://revealjs.com/
+  #     src: https://github.com/hakimel/reveal.js
+  #   literature:
+  #     - title: "Reference"
+  #       url: http://reference.com/
+  #     - title: "Another Reference"
+  #       url: http://reference2.com/
+timetable:
+  - from: 18:00
+    until: 18:30
+    text: "Ankommen"
+  - from: 18:30
+    until: 18:45
+    text: "Willkommen"
+  # - from: 18:45
+  #   until: 19:15
+  #   talkRef: mytalk
